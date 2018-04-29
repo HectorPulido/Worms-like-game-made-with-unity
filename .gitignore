@@ -17,3 +17,4 @@
 
 # ImageProcessor DiskCache 
 **/App_Data/cache/
+*.meta
