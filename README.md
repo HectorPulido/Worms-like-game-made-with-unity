@@ -1,6 +1,9 @@
 # WORMS CLONE
 <b>This is a WORMS Game made with Unity and C#</b>
 
+## Todo
+* Mirror multiplayer integration
+
 ## WHY (MOTIVATION)
 ![Example](/Images/ExampleImage.png) <br/>
 This tutorial was made for <b>Hector Pulido</b> for his youtube channel <br/>
@@ -9,9 +12,4 @@ And his Twitch Channel<br/>
 https://www.twitch.tv/hector_pulido_<br/>
 
 ## HOW TO USE
-Open it on unity 2017.3 or greater (sorry about that >-< ), and play around with the project.
-
-## Patreon
-Please consider Support on Patreon<br/>
-![Please consider support on patreon](/Images/Patreon.png)<br/>
-https://www.patreon.com/HectorPulido
+Create a new project and import the asset folder of the project you want.
